@@ -1,0 +1,3 @@
+.travis.ymllanguage: node_js
+node_js:
+ - node
